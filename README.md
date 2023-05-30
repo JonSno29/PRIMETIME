@@ -1,4 +1,5 @@
 # PRIMETIME
+
 How to:
 Create desktop folder
 Add template inside desktop folder
@@ -11,3 +12,7 @@ Rearrange all files and delete unnecessary files
  Git branch -M main
  Git remote add origin “GitHub repository address”
  Git push -u origin main
+
+ Link:
+
+ <https://jonsno29.github.io/PRIMETIME/>
