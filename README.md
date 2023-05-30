@@ -1,5 +1,7 @@
 # PRIMETIME
 
+<img src="client\assets\readmeprime.png" >
+
 How to:
 Create desktop folder
 Add template inside desktop folder
